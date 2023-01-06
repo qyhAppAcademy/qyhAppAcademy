@@ -34,6 +34,6 @@ A news article scrapbook for users to curate their collections of articles, buil
 ![Databases & Cloud Hosting](https://skills.thijs.gg/icons?i=postgres,sqlite,mysql,mongodb,aws)
 
 ## GitHub Stats
-[![Qiao's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyhAppAcademy)](https://github.com/qyhAppAcademy/github-readme-stats)
+![Qiao's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyhAppAcademy)
 
-[![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qyhAppAcademy&show_icons=true&count_private=true)](https://github.com/qyhAppAcademy/github-readme-stats)
+![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qyhAppAcademy&show_icons=true&count_private=true)
