@@ -25,7 +25,7 @@ A data visualization app demostrating Portugal’s trade influence in the world,
 A news article scrapbook for users to curate their collections of articles, built using: React / Redux, Express, Node, MongoDB, AWS, HTML5, CSS3
 
 ## Programming Tools
-[![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)]
+[![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)](https://skills.thijs.gg)
 
 ## Frameworks & Libraries
 [![Frameworks & Libraries](https://skills.thijs.gg/icons?i=react,redux,express,nodejs,jquery,rails,laravel)](https://skills.thijs.gg)
