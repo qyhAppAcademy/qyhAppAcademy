@@ -2,9 +2,9 @@
 
 #### 🖥️ My name is Qiao. I am a software engineer skilled in full-stack web development.
 
-- 🔭 I’m currently working on data structures and algorithms for massive datasets
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on web applications that involve video transcription
+- 🔭 I’m currently working on data structures and algorithms for massive datasets.
+- 🌱 I’m currently learning Vue.js.
+- 👯 I’m looking to collaborate on web applications that involve video transcription.
 - 🤔 I’m looking for help with landing a fulfilling web development job.
 - 📫 How to reach me: [Personal Portfolio](https://qiaoyanghan.com/), [LinkedIn](https://www.linkedin.com/in/qiaoyanghan/), [AngelList](https://angel.co/u/qiaoyanghan), or [Email](mailto:qyhwork@gmail.com)
 - 💬 Ask me about my projects!
