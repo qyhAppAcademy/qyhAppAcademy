@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**qyhAppAcademy/qyhAppAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a software engineer 🖥️ with a focus in full-stack web development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data structures and algorithms for massive datasets
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on web applications that involve video transcription
+- 🤔 I’m looking for help with landing a fulfilling web development job.
+- 📫 How to reach me: [Personal Portfolio](https://qiaoyanghan.com/), [LinkedIn](https://www.linkedin.com/in/qiaoyanghan/), [AngelList](https://angel.co/u/qiaoyanghan), or [Email](mailto:qyhwork@gmail.com)
+- 💬 Ask me about my projects!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I train Jiu Jitsu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Qiao's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyhAppAcademy)](https://github.com/qyhAppAcademy/github-readme-stats)
+
+[![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qyhAppAcademy&show_icons=true&count_private=true)](https://github.com/qyhAppAcademy/github-readme-stats)
