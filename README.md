@@ -22,8 +22,14 @@ A data visualization app demostrating Portugal’s trade influence in the world,
 A news article scrapbook for users to curate their collections of articles, built using: React / Redux, Express, Node, MongoDB, AWS, HTML5, CSS3
 
 ## Programming Tools
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)](https://skills.thijs.gg)
+
+## Frameworks & Libraries
+[![Frameworks & Libraries](https://skills.thijs.gg/icons?i=react,redux,express,nodejs,jquery,rails,laravel)](https://skills.thijs.gg)
+
+## Databases & Cloud Hosting
+[![Databases & Cloud Hosting](https://skills.thijs.gg/icons?i=postgres,sqlite,mysql,mongodb,aws)](https://skills.thijs.gg)
 
 [![Qiao's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyhAppAcademy)](https://github.com/qyhAppAcademy/github-readme-stats)
 
-[![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qyhAppAcademy&show_icons=true&count_private=true)](https://github.com/qyhAppAcademy/github-readme-stats)
+[![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api/?username=qyhAppAcademy&show_icons=true&count_private=true)](https://github.com/qyhAppAcademy/github-readme-stats)
