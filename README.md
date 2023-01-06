@@ -15,24 +15,25 @@
 - ⚡ Fun fact: I train Jiu Jitsu.
 
 ## Projects
-### [Qelp](https://github.com/qyhAppAcademy/Qelp)
+### [Qelp](https://qelp.onrender.com)
 A fullstack clone of Yelp, built using: React / Redux, Ruby on Rails, PostgreSQL, AWS, HTML5, CSS3
 
-### [Portugal Trade Data Visualization](https://github.com/qyhAppAcademy/Portugal-Trade-Data-Visualization)
+### [Portugal Trade Data Visualization](https://qyhappacademy.github.io/Portugal-Trade-Data-Visualization)
 A data visualization app demostrating Portugal’s trade influence in the world, built using: D3.js, JavaScript, HTML5, CSS3
 
-### [Choose Your News](https://github.com/qyhAppAcademy/Choose-Your-News)
+### [Choose Your News](https://choose-your-news.onrender.com)
 A news article scrapbook for users to curate their collections of articles, built using: React / Redux, Express, Node, MongoDB, AWS, HTML5, CSS3
 
 ## Programming Tools
-[![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)](https://skills.thijs.gg)
+![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)
 
 ## Frameworks & Libraries
-[![Frameworks & Libraries](https://skills.thijs.gg/icons?i=react,redux,express,nodejs,jquery,rails,laravel)](https://skills.thijs.gg)
+![Frameworks & Libraries](https://skills.thijs.gg/icons?i=react,redux,express,nodejs,jquery,rails,laravel)
 
 ## Databases & Cloud Hosting
-[![Databases & Cloud Hosting](https://skills.thijs.gg/icons?i=postgres,sqlite,mysql,mongodb,aws)](https://skills.thijs.gg)
+![Databases & Cloud Hosting](https://skills.thijs.gg/icons?i=postgres,sqlite,mysql,mongodb,aws)
 
+## GitHub Stats
 [![Qiao's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyhAppAcademy)](https://github.com/qyhAppAcademy/github-readme-stats)
 
 [![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qyhAppAcademy&show_icons=true&count_private=true)](https://github.com/qyhAppAcademy/github-readme-stats)
