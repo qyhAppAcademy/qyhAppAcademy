@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
-#### I am a software engineer 🖥️ with a focus in full-stack web development.
+#### 🖥️ My name is Qiao. I am a software engineer skilled in full-stack web development.
 
 - 🔭 I’m currently working on data structures and algorithms for massive datasets
 - 🌱 I’m currently learning Vue.js
