@@ -1,12 +1,15 @@
 ### Hi there! 👋
 
-#### 🖥️ My name is Qiao. I am a software engineer skilled in full-stack web development.
+#### 🖥️ My name is Qiao. I am a software engineer skilled in full-stack web development. [Personal Portfolio](https://qiaoyanghan.com/)
 
 - 🔭 I’m currently working on data structures and algorithms for massive datasets.
 - 🌱 I’m currently learning Vue.js.
 - 👯 I’m looking to collaborate on web applications that involve video transcription.
 - 🤔 I’m looking for help with landing a fulfilling web development job.
-- 📫 How to reach me: [Personal Portfolio](https://qiaoyanghan.com/), [LinkedIn](https://www.linkedin.com/in/qiaoyanghan/), [AngelList](https://angel.co/u/qiaoyanghan), or [Email](mailto:qyhwork@gmail.com)
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qiaoyanghan/)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/qiaoyanghan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qyhwork@gmail.com)
 - 💬 Ask me about my projects!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I train Jiu Jitsu.
@@ -22,7 +25,7 @@ A data visualization app demostrating Portugal’s trade influence in the world,
 A news article scrapbook for users to curate their collections of articles, built using: React / Redux, Express, Node, MongoDB, AWS, HTML5, CSS3
 
 ## Programming Tools
-[![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)](https://skills.thijs.gg)
+[![Programming Tools](https://skills.thijs.gg/icons?i=js,ruby,php,python,java,html,css,sass)]
 
 ## Frameworks & Libraries
 [![Frameworks & Libraries](https://skills.thijs.gg/icons?i=react,redux,express,nodejs,jquery,rails,laravel)](https://skills.thijs.gg)
