@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### My name is Qiao. I am a software engineer skilled in full-stack web development. [Personal Portfolio](https://qiaoyanghan.com/)
+#### My name is Qiao. I am a software engineer skilled in full-stack web development.
 
 - 🔭 I’m currently working on data structures and algorithms for large datasets.
 - 🌱 I’m currently learning Vue.js.
@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qiaoyanghan/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/qiaoyanghan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qyhwork@gmail.com)
+[![Personal Portfolio](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=green)](https://qiaoyanghan.com/)
 - 💬 Ask me about my projects!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I train Jiu Jitsu.
