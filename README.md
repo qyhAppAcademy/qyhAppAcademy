@@ -17,7 +17,7 @@
 
 ## Projects
 ### [Qelp](https://qelp.onrender.com)
-A fullstack clone of Yelp, built using: React / Redux, Ruby on Rails, PostgreSQL, AWS, HTML5, CSS3
+A full-stack clone of Yelp, built using: React / Redux, Ruby on Rails, PostgreSQL, AWS, HTML5, CSS3
 
 ### [Portugal Trade Data Visualization](https://qyhappacademy.github.io/portugal_trade_data_visualization)
 A data visualization app demostrating Portugal’s trade influence in the world, built using: D3.js, JavaScript, HTML5, CSS3
